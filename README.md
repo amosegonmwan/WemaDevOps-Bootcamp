@@ -1,1 +1,0 @@
-# WemaDevOps-Bootcamp
