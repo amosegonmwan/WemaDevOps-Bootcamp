@@ -35,7 +35,7 @@
 6. Orchestrated the setup and management of private Docker Hub repositories, ensuring secure access for teams.
 7. Executed a multi-step instance launch process on Amazon EC2, configuring instance details and ensuring successful website deployment.
 
-**Containerization & Kubernetes Management
+### Containerization & Kubernetes Management
 
 1. Employed Docker for efficient containerization and Kubernetes for streamlined container orchestration.
 2. Designed and implemented scalable Kubernetes clusters, optimizing auto-scaling and load balancing capabilities.
