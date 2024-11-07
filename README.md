@@ -1,6 +1,6 @@
 # WemaDevOps-Bootcamp
 
-This repository contains the following documents:
+This repository contains the following documents that helps to prepare you for a typical Cloud DevOps Engineering role:
 
 1. WemaDevOps - Interview Questions
 2. WemaDevOps - Best Practices
